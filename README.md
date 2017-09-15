@@ -1,4 +1,4 @@
-#Chatbot Receipt
+Chatbot Receipt
 
 ## Overview
 
@@ -20,3 +20,6 @@ Main components and the relevant frameworks used:
 
 As this bot was built using the Microsoft Bot Builder Framework with NodeJS SDK, you can find the detailed documentation on its [homepage](https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-nodejs-quickstart). You will need to install Node and all dependent packages in `package.json`.
 
+## Demo video
+
+https://youtu.be/6stlktHL9-g
